@@ -53,7 +53,8 @@ def merge_sort(items):
             items[k]=righthalf[j]
             j=j+1
             k=k+1
-
+    return items
+            
 def quick_sort(items):
 
     '''Implementation of quick sort algorithm in python
