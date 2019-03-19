@@ -8,7 +8,7 @@ a package and upload to Github
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pythontrain.
 
 ```bash
-pip install foobar
+pip install pythontrain
 ```
 
 ## Usage
